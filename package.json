@@ -1,0 +1,13 @@
+{
+  "name": "rxjs-jsx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Víctor Oliva",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.6"
+  }
+}
